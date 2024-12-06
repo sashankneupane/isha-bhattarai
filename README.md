@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me:  ig- i5ha._
+- 📫 How to reach me:  ig- ishabhattarai__
 - 😄 Pronouns: she/her
 <!---
 isha-bhattarai/isha-bhattarai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
